@@ -1,0 +1,12 @@
+# Node.js dependencies
+.node_modules/
+
+# Vite cache
+.cache/
+
+# Editor and IDE-specific files
+.vscode/
+*.log
+
+# Build output
+dist/
